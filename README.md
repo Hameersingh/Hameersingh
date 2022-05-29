@@ -1,4 +1,4 @@
--  👋 Hi, I’m @Hameersingh **Full-stack webdeveloper*
+-  👋 Hi, I’m @Hameersingh **Full-stack webdeveloper**
 -  🔭 I’m currently working on HTML, CSS, Bootstrap and PHP
 - 🌱 I’m currently learning "Javascript"
 - 💞️ I’m looking to collaborate with others
